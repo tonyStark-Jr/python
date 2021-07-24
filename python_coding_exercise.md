@@ -1,19 +1,18 @@
-﻿1. Given two integer numbers return their product. If the product is greater than 1000, then return their sum
+1. Given two integer numbers return their product. If the product is greater than 1000, then return their sum
+
+For example:
+							a = 10, b=20, output=200
+							a = 100, b=30, output=130
+
+
+
+2. Given a list of numbers, Iterate from the start number to the end number, and In each iteration print the sum of the current number and previous number
 
 For example: 
 
-`		 	`a = 10, b=20, output=200
+							a = [1,2,3,4]
 
-`         			`a = 100, b=30, output=130
-
-
-1. Given a list of numbers, Iterate from the start number to the end number, and In each iteration print the sum of the current number and previous number
-
-For example: 
-
-`		 	`a = [1,2,3,4]
-
-`         			`output:
+							output:
 
 `                			`1
 
